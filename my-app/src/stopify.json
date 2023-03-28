@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Halcyon",
+    "artist": "Elder",
+    "played": 0
+  },
+  {
+    "id": 2,
+    "title": "In Waves",
+    "artist": "Trivium",
+    "played": 0
+  },
+  {
+    "id": 3,
+    "title": "Sign of the Cross",
+    "artist": "Iron Maiden",
+    "played": 0
+  }
+]

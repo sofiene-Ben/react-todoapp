@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.Toast {
+  padding: 1rem 2rem;
+  margin: 0.25rem 0;
+  color: white;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Info { 
+  background-color: #0984e3;
+  border: 2px solid #066ebe;
+}
+
+.Succes { 
+  background-color: #00b894;
+  border: 2px solid #02886d;
+}
+
+.Warning { 
+  background-color: #ffa502;
+  border: 2px solid #ca8504;
+}
+
+.Danger { 
+  background-color: #ff4757;
+  border: 2px solid #ca313e;
+}
+
+.Close {
+  font-size: 1.4rem;
+  font-weight: bold;
+  cursor: pointer;
+}
